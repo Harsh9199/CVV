@@ -1,0 +1,38 @@
+body{
+  background-color: #e3fdfd;
+}
+  hr{
+      background-color: inherit;
+      border-style: solid;
+      border-color: grey;
+      border-width: 1px;
+      width: 10%;
+  }
+  .harsh{
+    border-radius: 100px;
+  }
+  h1{
+    color: #66bfbf;
+    font-family: sans-serif;
+  }
+  h3{
+    color: #66bfbf;
+  }
+  .gol-gappa{
+    max-width: 70%;
+max-height: 50%;
+  }
+.icecream{
+  max-width: 40%;
+max-height: 30%;
+
+}
+.icecream:hover{
+    border-radius: 100px;
+}
+.gol-gappa:hover{
+    border-radius: 100px;
+}
+harsh:hover{
+    background-repeat: space;
+}
